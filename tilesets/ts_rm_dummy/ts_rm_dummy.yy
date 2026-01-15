@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"ts_room",
+  "%Name":"ts_rm_dummy",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"ts_room",
+  "name":"ts_rm_dummy",
   "out_columns":5,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_room",
-    "path":"sprites/spr_room/spr_room.yy",
+    "name":"spr_rm_dummy",
+    "path":"sprites/spr_rm_dummy/spr_rm_dummy.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
